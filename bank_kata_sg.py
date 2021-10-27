@@ -1,6 +1,6 @@
 from datetime import datetime
 import pickle
-# git learning
+# git learning  with my personal project 
 
 class Operation:
     def __init__(self, amount, effective_time, balance):
